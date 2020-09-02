@@ -2632,20 +2632,6 @@ input, select, textarea {
 				width: 100%;
 			}
 
-               .image.fit1 {
-			display: block;
-			margin: 2.5rem 0;
-			width: 150%;
-		}
-
-			.image.fit1:first-child {
-				margin-top: 0;
-			}
-
-			.image.fit1 img {
-				width: 100%;
-			}
-
 		.image.main {
 			display: block;
 			margin: 4rem 0;
